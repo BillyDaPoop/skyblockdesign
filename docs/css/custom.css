@@ -1,0 +1,7 @@
+.hero.is-image {
+  background-image: url("https://i.badlion.net/nabFHbZrXMGGLs6PMXNkxZ.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
